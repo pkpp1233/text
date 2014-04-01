@@ -1,0 +1,22 @@
+#chart {
+  height: 100%;
+}
+
+#articles {
+  max-height: 40%;
+  overflow-y: scroll;
+}
+
+#articleGroups {
+  max-height: 40%;
+  overflow-y: scroll;
+}
+
+#topics {
+  max-height: 40%;
+  overflow-y: scroll;
+}
+
+#cloud {
+  height: 60%;
+}
